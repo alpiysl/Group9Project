@@ -11,6 +11,8 @@ public class Exercise {
         System.out.println("azerbaijan");
 
         System.out.println("again");
+        System.out.println("again");
+        System.out.println("again");
 
     }
 }

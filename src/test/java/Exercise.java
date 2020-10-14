@@ -4,6 +4,7 @@ public class Exercise {
 
         System.out.println("new project");//add new things
         //adding something from Ahmet
+        //10.14.2020 adding from Ahmet again
 
     }
 }

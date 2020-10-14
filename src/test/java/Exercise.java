@@ -5,5 +5,8 @@ public class Exercise {
         System.out.println("new project");//add new things
         //adding something from Ahmet
 
+
+        System.out.println("new line again");
+
     }
 }

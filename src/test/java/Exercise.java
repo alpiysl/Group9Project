@@ -6,7 +6,7 @@ public class Exercise {
         //adding something from Ahmet
 
         System.out.println("args = " + args);
-
+        System.out.println("new line again");
 
     }
 }

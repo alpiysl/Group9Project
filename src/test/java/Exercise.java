@@ -8,5 +8,7 @@ public class Exercise {
 
         System.out.println("new line again");
 
+        System.out.println("azerbaijan");
+
     }
 }

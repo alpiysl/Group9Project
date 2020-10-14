@@ -17,6 +17,8 @@ public class Exercise {
         System.out.println("sdet");
 
         System.out.println("greece");
+        System.out.println("greece");
+        System.out.println("greece");
 
     }
 }

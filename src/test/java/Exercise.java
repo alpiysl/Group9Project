@@ -10,5 +10,7 @@ public class Exercise {
 
         System.out.println("azerbaijan");
 
+        System.out.println("added");
+
     }
 }

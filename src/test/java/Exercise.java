@@ -5,16 +5,16 @@ public class Exercise {
         System.out.println("new project");//add new things
         //adding something from Ahmet
 
-        System.out.println("args = " + args);
+
         System.out.println("new line again");
 
         System.out.println("azerbaijan");
 
-        System.out.println("again");
-        System.out.println("again");
-        System.out.println("again");
-        System.out.println("again");
-        System.out.println("again");
+        System.out.println("added");
+        System.out.println("added");
+        System.out.println("added");
+        System.out.println("added");
+        System.out.println("added");
 
     }
 }

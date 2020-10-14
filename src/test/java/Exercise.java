@@ -12,6 +12,9 @@ public class Exercise {
 
         System.out.println("added");
         System.out.println("added");
+        System.out.println("added");
+        System.out.println("added");
+        System.out.println("added");
 
     }
 }
